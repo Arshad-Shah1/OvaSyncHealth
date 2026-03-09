@@ -3,7 +3,7 @@ background-image: url("bbb.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
-
+text-align:center;
 font-family: Arial;
 margin:0;
 }
