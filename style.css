@@ -1,11 +1,13 @@
 body{
-background-image: url("bbb.jpg");
+background:pink;
+
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
 font-family: Arial;
 margin:0;
-background:pink;
+background-image: url("bbb.jpg");
+
 
 }
 
